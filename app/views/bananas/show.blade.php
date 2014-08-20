@@ -1,0 +1,1 @@
+/Users/usapoyo/dev/larates/app/views/bananas/show.blade.php
